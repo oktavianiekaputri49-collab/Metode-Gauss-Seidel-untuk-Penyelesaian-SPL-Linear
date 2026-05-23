@@ -1,0 +1,34 @@
+📊 Implementasi Metode Gauss-Seidel untuk SPL Linear
+Deskripsi
+Project ini membahas implementasi metode numerik Gauss-Seidel untuk menyelesaikan Sistem Persamaan Linear (SPL) dengan 4 variabel secara iteratif.
+Metode Gauss-Seidel digunakan untuk memperoleh solusi pendekatan dengan memperbarui nilai variabel secara langsung pada setiap iterasi hingga mencapai konvergensi berdasarkan nilai error yang semakin kecil.
+
+Hasil Iterasi
+Iterasi Konvergen
+Iterasi dilakukan hingga N = 10
+Nilai mendekati stabil pada iterasi akhir
+
+Hasil akhir (aproksimasi):
+x₁ ≈ -0.8
+x₂ ≈ 0.04
+x₃ ≈ -0.2808
+x₄ ≈ 0.6918
+
+Tujuan Project
+Memahami metode Gauss-Seidel
+Menyelesaikan SPL 4 variabel secara iteratif
+Menganalisis konvergensi metode numerik
+Menghitung error relatif pada setiap iterasi
+Implementasi metode numerik menggunakan Excel
+
+Insight
+Metode Gauss-Seidel mempercepat proses konvergensi karena menggunakan nilai terbaru pada setiap iterasi, sehingga lebih efisien dibanding metode iteratif lain seperti Jacobi.
+
+Tools
+Microsoft Excel
+Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik dalam penyelesaian sistem persamaan linear 4 variabel serta analisis konvergensi menggunakan metode Gauss-Seidel.
+
+#MetodeNumerik #GaussSeidel #SPL #Excel #NumericalMethod #DataAnalysis #Mahasiswa #Portofolio
